@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mahdirostami2004
-- 👀 I’m interested in games
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning Django
 - 📫 How to reach me mehdirost4mi@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: otaku
+- ⚡ Fun fact: i love to watch anime & go to gym
 
 <!---
 mahdirostami2004/mahdirostami2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
