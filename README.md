@@ -2,7 +2,6 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C++
 - 📫 How to reach me mehdirost4mi@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: i love to watch anime & go to gym
 
 <!---
