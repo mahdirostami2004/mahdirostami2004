@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahdirostami2004
+- 👋 Hi, I’m Mehdi Rostami
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C++
 - 📫 How to reach me mehdirost4mi@gmail.com
