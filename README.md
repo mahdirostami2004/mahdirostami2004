@@ -16,9 +16,6 @@ My academic background and hands-on projects have given me a solid foundation in
 - **Power BI** & **Metabase** for interactive dashboards  
 - **Linux**, **Git**, and **Docker** for reproducible development environments  
 
-Besides data, I'm passionate about **game development** and currently diving deep into **C++** to understand how things work under the hood.  
-I believe combining data skills with a game developer’s mindset can lead to innovative solutions.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -39,4 +36,4 @@ I believe combining data skills with a game developer’s mindset can lead to in
 
 ## 📫 Let's Connect
 - 📧 Email: [mehdirost4mi@gmail.com](mailto:mehdirost4mi@gmail.com)  
-- 💼 LinkedIn: [Mehdi Rostami](https://www.linkedin.com/in/your-profile-url) *(replace with your actual LinkedIn URL)*  
+- 💼 LinkedIn: [Mehdi Rostami](https://www.linkedin.com/in/mehdi-rostami-8b7a49266?) 
