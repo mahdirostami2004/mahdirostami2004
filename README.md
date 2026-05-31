@@ -13,7 +13,7 @@
 
 ---
 ### 🧭 Who I Am
-
+---
 Mehdi Rostami – B.Sc. Computer Science, University of Zanjan (2022–present)
 Focus: Data Engineering, Data Mining, Analytics
 I'm a Computer Science student building a career in the data world — with a strong pull toward **Data Engineering**.  
