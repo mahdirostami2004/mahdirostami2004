@@ -1,10 +1,24 @@
-# 👋 Hi, I’m Mehdi Rostami
+<!-- Banner or header can be a custom image if you want, but here we use typography -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Mehdi+Rostami;Data+Analyst+%7C+Engineer+in+progress;Game+Dev+Enthusiast;C%2B%2B+Explorer" alt="Typing SVG" />
+</div>
 
-🎓 Computer Science student at **University of Zanjan** (2023–present)  
-📍 Based in Tehran, Iran  
-📊 Aspiring **Junior Data Analyst / Data Engineer**
+<div align="center">
+  <a href="mailto:mehdirost4mi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mahdirostami2004"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahdirostami2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 ---
+
+## 🧭 Who am I?
+
 
 ## 🔍 About Me
 Detail-oriented and curious about turning raw data into meaningful insights.  
