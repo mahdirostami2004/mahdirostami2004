@@ -15,6 +15,7 @@
 
 ### 🧭 Who I Am
 
+
 I'm a Computer Science student building a career in the data world — with a strong pull toward **Data Engineering**.  
 I enjoy designing reliable pipelines that turn messy, scattered information into clean, structured datasets ready for analysis and machine learning.
 
@@ -25,12 +26,20 @@ On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to 
 
 ### 🛠 Technical Skills
 
-**Data & Analytics**  
-Python (Pandas, NumPy, Scikit-learn, BeautifulSoup) · SQL (SQLite) · MongoDB  
-Power BI · Metabase · Matplotlib · Seaborn
+#### Data & Analytics
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sqlite,mongodb,matplotlib,seaborn&perline=4" />
+</div>
 
-**Engineering & Infrastructure**  
-Flask · Bash · Linux · Git · Docker
+#### Web & Scraping
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,flask,beautifulsoup&perline=5" />
+</div>
+
+#### Engineering & Infrastructure
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash,linux,git,docker,powerbi,metabase&perline=3" />
+</div>
 
 ---
 
@@ -46,10 +55,5 @@ Flask · Bash · Linux · Git · Docker
 - 📧 Email: [mehdirost4mi@gmail.com](mailto:mehdirost4mi@gmail.com)  
 - 💼 LinkedIn: [mehdi-rostami-8b7a49266](https://www.linkedin.com/in/mehdi-rostami-8b7a49266)  
 - 📬 Telegram: [@mhdirst](https://t.me/mhdirst)  
-- 🐙 GitHub: [mahdirostami2004](https://github.com/mahdirostami2004)
-
 ---
 
-<div align="center">
-  <i>“Quietly building the pipelines that make data speak.”</i>
-</div>
