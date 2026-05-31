@@ -25,30 +25,31 @@ On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to 
 ---
 
 ### 🛠 Technical Skills
+
 #### 📊 Data & Analytics
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br/>
       <sub>Python</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /><br/>
       <sub>Pandas</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" /><br/>
       <sub>NumPy</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" /><br/>
       <sub>Scikit-learn</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" /><br/>
       <sub>SQLite</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /><br/>
       <sub>MongoDB</sub>
     </td>
@@ -56,65 +57,64 @@ On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to 
 </table>
 
 #### 🌐 Web & Scraping
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br/>
       <sub>HTML5</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br/>
       <sub>CSS3</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br/>
       <sub>JavaScript</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" /><br/>
       <sub>Flask</sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beautifulsoup/beautifulsoup-original.svg" width="40" /><br/>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/beautifulsoup-1.svg" width="40" /><br/>
       <sub>BeautifulSoup</sub>
     </td>
   </tr>
 </table>
 
 #### ⚙️ Engineering & Infrastructure
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /><br/>
       <sub>Bash</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br/>
       <sub>Linux</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br/>
       <sub>Git</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /><br/>
       <sub>Docker</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/power-bi.png" width="40" /><br/>
       <sub>Power BI</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" /><br/>
       <sub>Matplotlib</sub>
     </td>
-    <td align="center" width="90">
+    <td align="center">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" /><br/>
       <sub>Seaborn</sub>
     </td>
   </tr>
 </table>
-
 
 
 ---
