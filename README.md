@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=0E75B6&center=true&vCenter=true&width=550&lines=Mehdi+Rostami;Computer+Science+Student;Aspiring+Data+Analyst+%26+Data+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=1E90FF&gradient=true&center=true&vCenter=true&width=550&lines=Mehdi+Rostami;Computer+Science+Student;Aspiring+Data+Analyst+%26+Data+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,6 +14,7 @@
 ---
 
 ### 🧭 Who I Am
+
 
 
 I'm a Computer Science student building a career in the data world — with a strong pull toward **Data Engineering**.  
@@ -62,12 +63,5 @@ On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to 
 - Core Data Engineering: ETL/ELT pipelines, data modeling, pipeline reliability  
 - Apache Airflow for workflow orchestration  
 - PySpark for processing large-scale data  
----
-
-### 📫 Connect
-
-- 📧 Email: [mehdirost4mi@gmail.com](mailto:mehdirost4mi@gmail.com)  
-- 💼 LinkedIn: [mehdi-rostami-8b7a49266](https://www.linkedin.com/in/mehdi-rostami-8b7a49266)  
-- 📬 Telegram: [@mhdirst](https://t.me/mhdirst)  
 ---
 
