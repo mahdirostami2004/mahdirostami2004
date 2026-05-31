@@ -37,19 +37,6 @@ I believe combining data skills with a game developer’s mindset can lead to in
 
 ---
 
-## 🌱 Currently Learning
-- **C++** – for deeper system understanding and game development fundamentals  
-- Advanced data engineering tools (Airflow, Spark) – next on my list  
-
----
-
 ## 📫 Let's Connect
 - 📧 Email: [mehdirost4mi@gmail.com](mailto:mehdirost4mi@gmail.com)  
 - 💼 LinkedIn: [Mehdi Rostami](https://www.linkedin.com/in/your-profile-url) *(replace with your actual LinkedIn URL)*  
-- 🐙 GitHub: You're already here! Check out my pinned repositories for data projects.
-
----
-
-## ⚡ Fun Fact
-I’m equally excited by a clean database schema and a well-optimized game loop.  
-Always eager to learn the “why” behind the tools I use.
