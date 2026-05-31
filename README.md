@@ -25,7 +25,7 @@ On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to 
 ---
 
 ### 🛠 Technical Skills
-
+#### 📊 Data & Analytics
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -53,6 +53,10 @@ On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to 
       <sub>MongoDB</sub>
     </td>
   </tr>
+</table>
+
+#### 🌐 Web & Scraping
+<table align="center">
   <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br/>
@@ -74,11 +78,11 @@ On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/beautifulsoup/beautifulsoup-original.svg" width="40" /><br/>
       <sub>BeautifulSoup</sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="40" /><br/>
-      <sub>Power BI</sub>
-    </td>
   </tr>
+</table>
+
+#### ⚙️ Engineering & Infrastructure
+<table align="center">
   <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /><br/>
@@ -97,6 +101,10 @@ On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to 
       <sub>Docker</sub>
     </td>
     <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="40" /><br/>
+      <sub>Power BI</sub>
+    </td>
+    <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" /><br/>
       <sub>Matplotlib</sub>
     </td>
@@ -107,7 +115,6 @@ On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to 
   </tr>
 </table>
 
----
 
 
 ---
