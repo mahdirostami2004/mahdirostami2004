@@ -1,6 +1,5 @@
-<!-- Banner or header can be a custom image if you want, but here we use typography -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Mehdi+Rostami;Data+Analyst+%7C+Engineer+in+progress;Game+Dev+Enthusiast;C%2B%2B+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Mehdi+Rostami;Data+Miner+%7C+Analyst+%7C+Engineer;Turning+raw+data+into+gold;Insights+are+my+quest" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,6 +17,7 @@
 ---
 
 ## 🧭 Who am I?
+
 
 
 ## 🔍 About Me
