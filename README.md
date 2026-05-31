@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=26&duration=3500&pause=800&color=1E90FF&gradient=true&center=true&vCenter=true&width=550&lines=Mehdi+Rostami;Computer+Science+Student;Aspiring+Data+Analyst+%26+Data+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=26&duration=3500&pause=800&color=1E90FF&gradient=true&center=true&vCenter=true&width=550&lines=Mehdi+Rostami;Aspiring+Data+Analyst" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,13 +14,10 @@
 ---
 ### 🧭 Who I Am
 
-
+Mehdi Rostami – B.Sc. Computer Science, University of Zanjan (2022–present)
+Focus: Data Engineering, Data Mining, Analytics
 I'm a Computer Science student building a career in the data world — with a strong pull toward **Data Engineering**.  
 I enjoy designing reliable pipelines that turn messy, scattered information into clean, structured datasets ready for analysis and machine learning.
-
-My current learning path includes ETL/ELT workflows, workflow orchestration, and distributed data processing.  
-On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to keep everything reproducible and portable.
-
 ---
 #### 📊 Data & Analytics
 <p align="center">
