@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mehdi Rostami
 
-🎓 Computer Science student at **University of Zanjan** (2022–present)  
+🎓 Computer Science student at **University of Zanjan** (2023–present)  
 📍 Based in Tehran, Iran  
 📊 Aspiring **Junior Data Analyst / Data Engineer**
 
