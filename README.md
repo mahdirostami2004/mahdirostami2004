@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=1E90FF&gradient=true&center=true&vCenter=true&width=550&lines=Mehdi+Rostami;Computer+Science+Student;Aspiring+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=500&size=26&duration=3500&pause=800&color=1E90FF&gradient=true&center=true&vCenter=true&width=550&lines=Mehdi+Rostami;Computer+Science+Student;Aspiring+Data+Analyst+%26+Data+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,6 +10,10 @@
 </div>
 
 <br/>
+
+---
+
+### 🧭 Who I Am
 
 ---
 
