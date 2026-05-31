@@ -59,6 +59,5 @@ I enjoy designing reliable pipelines that turn messy, scattered information into
 - Core Data Engineering: ETL/ELT pipelines, data modeling, pipeline reliability  
 - Apache Airflow for workflow orchestration  
 - PySpark for processing large-scale data  
-- Advanced SQL (window functions, query optimization) for analytics engineering
 
 ---
