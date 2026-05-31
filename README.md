@@ -1,12 +1,19 @@
-# Mehdi Rostami
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=0E75B6&center=true&vCenter=true&width=550&lines=Mehdi+Rostami;Computer+Science+Student;Aspiring+Data+Analyst+%26+Data+Engineer" alt="Typing SVG" />
+</div>
 
-**Computer Science Student · Data Analyst & Engineer in Training**
+<div align="center">
+  <a href="https://www.linkedin.com/in/mehdi-rostami-8b7a49266"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/mhdirst"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/mahdirostami2004"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:mehdirost4mi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</div>
 
-📍 Tehran, Iran  
-📧 [mehdirost4mi@gmail.com](mailto:mehdirost4mi@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile-url) · [GitHub](https://github.com/mahdirostami2004)
+<br/>
 
 ---
+
+### 🧭 Who I Am
 
 ### 👋 About Me
 
