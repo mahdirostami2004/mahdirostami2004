@@ -15,51 +15,41 @@
 
 ### 🧭 Who I Am
 
-### 👋 About Me
+I'm a Computer Science student building a career in the data world — with a strong pull toward **Data Engineering**.  
+I enjoy designing reliable pipelines that turn messy, scattered information into clean, structured datasets ready for analysis and machine learning.
 
-I'm a Computer Science student with a practical focus on data mining and analytics.  
-My daily work involves Python, SQL, and BI tools to turn raw datasets into actionable insights.  
-I'm comfortable with Linux, Git, and Docker for reproducible and shareable workflows.
+My current learning path includes ETL/ELT workflows, workflow orchestration, and distributed data processing.  
+On a daily basis, I work with Python, SQL, and Linux, and use Git and Docker to keep everything reproducible and portable.
 
 ---
 
 ### 🛠 Technical Skills
 
 **Data & Analytics**  
-Python (Pandas, NumPy, Scikit-learn) · SQL (SQLite) · MongoDB · Power BI · Metabase · Matplotlib · Seaborn
+Python (Pandas, NumPy, Scikit-learn, BeautifulSoup) · SQL (SQLite) · MongoDB  
+Power BI · Metabase · Matplotlib · Seaborn
 
-**Development & Tools**  
+**Engineering & Infrastructure**  
 Flask · Bash · Linux · Git · Docker
-
----
-
-### 📌 Selected Projects
-
-| Project | Description | Tools |
-|---------|-------------|-------|
-| **Churn Radar** | End-to-end customer churn analysis with interactive dashboard | Pandas, Scikit-learn, Power BI |
-| **LogLens** | Log ingestion pipeline → MongoDB → Metabase visualization | Python, MongoDB, Metabase |
-| **Market Basket Miner** | Association rule mining on retail transaction data | Pandas, mlxtend |
-| **Flask Insight API** | Containerized REST API for a classification model | Flask, Docker, Scikit-learn |
-
-→ More projects on my [GitHub repositories](https://github.com/mahdirostami2004?tab=repositories).
 
 ---
 
 ### 🌱 Currently Learning
 
-- Data mining techniques and feature engineering best practices  
-- Workflow orchestration (Airflow) and distributed data processing (Spark)  
-- Effective data storytelling and dashboard design
+- Core Data Engineering: ETL/ELT pipelines, data modeling, pipeline reliability  
+- Apache Airflow for workflow orchestration  
+- PySpark for processing large-scale data  
+---
+
+### 📫 Connect
+
+- 📧 Email: [mehdirost4mi@gmail.com](mailto:mehdirost4mi@gmail.com)  
+- 💼 LinkedIn: [mehdi-rostami-8b7a49266](https://www.linkedin.com/in/mehdi-rostami-8b7a49266)  
+- 📬 Telegram: [@mhdirst](https://t.me/mhdirst)  
+- 🐙 GitHub: [mahdirostami2004](https://github.com/mahdirostami2004)
 
 ---
 
-### 📫 Let's Connect
-
-- **Email:** [mehdirost4mi@gmail.com](mailto:mehdirost4mi@gmail.com)  
-- **LinkedIn:** [Mehdi Rostami](https://www.linkedin.com/in/your-profile-url) *(update with your real profile link)*  
-- **GitHub:** [mahdirostami2004](https://github.com/mahdirostami2004)
-
----
-
-*“I don't sell data – I make it speak.”*
+<div align="center">
+  <i>“Quietly building the pipelines that make data speak.”</i>
+</div>
