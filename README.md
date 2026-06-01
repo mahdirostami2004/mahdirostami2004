@@ -13,7 +13,7 @@
 
 ---
 
-### 🧭 Who I Am
+### 🧭 whoami
 
 I'm a Computer Science student building a career in the data world — with a strong pull toward **Data Engineering**.  
 I enjoy designing reliable pipelines that turn messy, scattered information into clean, structured datasets ready for analysis and machine learning.
