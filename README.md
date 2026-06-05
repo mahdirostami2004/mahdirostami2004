@@ -24,6 +24,7 @@ I enjoy designing reliable pipelines that turn messy, scattered information into
 #### 📊 Data & Analytics
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -55,5 +56,3 @@ I enjoy designing reliable pipelines that turn messy, scattered information into
 - Core Data Engineering: ETL/ELT pipelines, data modeling, pipeline reliability  
 - Apache Airflow for workflow orchestration  
 - PySpark for processing large-scale data  
-
----
