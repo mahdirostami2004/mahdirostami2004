@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=26&duration=3500&pause=800&color=1E90FF&gradient=true&center=true&vCenter=true&width=550&lines=Mehdi+Rostami;Computer+Science+Student;Aspiring+Data+Analyst;%26+Data+Engineer" alt="Typing SVG" />
 </div>
@@ -30,6 +31,13 @@ I enjoy designing reliable pipelines that turn messy, scattered information into
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+#### 💻 Programming & Development
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+</p>
+
 #### 🌐 Web & Scraping
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,6 +51,7 @@ I enjoy designing reliable pipelines that turn messy, scattered information into
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Red_Hat_Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
