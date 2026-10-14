@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="58" viewBox="0 0 224 58" role="img" aria-label="EMAIL">
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#142238"/><stop offset="1" stop-color="#0B1324"/></linearGradient>
+<linearGradient id="acc" x1="0" x2="1"><stop stop-color="#B8A0FF" stop-opacity=".20"/><stop offset="1" stop-color="#B8A0FF" stop-opacity=".01"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="222" height="56" rx="13" fill="url(#bg)" stroke="#B8A0FF" stroke-opacity=".48" stroke-width="1.3"/>
+<path d="M14 2 H90" stroke="#B8A0FF" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="12" y="10" width="38" height="38" rx="9" fill="url(#acc)" stroke="#B8A0FF" stroke-opacity=".6" />
+<rect x="19" y="22" width="25" height="17" rx="3" fill="none" stroke="#B8A0FF" stroke-width="2"/><path d="M20.5 24 31.5 32 42.5 24" fill="none" stroke="#B8A0FF" stroke-width="2"/>
+<text x="61" y="34" font-family="Arial, sans-serif" font-weight="700" font-size="15" letter-spacing="1.5" fill="#ECF6FF">EMAIL</text>
+<path d="M193 24 H206 V37 M206 24 L192 38" fill="none" stroke="#B8A0FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,19 @@
+MEHDI ROSTAMI - ANIMATED GITHUB PROFILE
+========================================
+
+1. Open the GitHub repository named exactly like your GitHub username.
+2. Copy README.md AND the whole assets/ folder into the repository root.
+3. Commit/push. GitHub will render the animated GIFs and the local SVG contact buttons.
+
+Everything visual is self-hosted in this repo; the skill logos use Shields.io URLs.
+No GitHub handle is hardcoded and no GitHub Action is needed.
+
+For optional regeneration of animations:
+    pip install pillow numpy
+    python tools/build_assets.py
+
+For optional regeneration of social icon buttons:
+    python tools/build_buttons.py
+
+No external font files are included. If Inter/Cousine are not installed,
+asset regeneration uses system font fallbacks.

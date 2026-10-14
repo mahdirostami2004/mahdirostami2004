@@ -1,169 +1,98 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 MEHDI ROSTAMI · README                 -->
-<!--                  DATA ENGINEERING                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!--
+  MEHDI ROSTAMI — GITHUB PROFILE
+  Edition: SYSTEMS / V2
+  All custom animated artwork is stored locally in ./assets.
+  No remote animation services, trackers, scripts, or GitHub username assumptions.
+-->
 
 <div align="center">
+  <img src="./assets/hero.gif" width="100%" alt="Mehdi Rostami — Data Engineer. Animated orbiting data core, moving circuits and neon blue typography." />
+</div>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0F172A,50:1E3A8A,100:0EA5E9&amp;height=260&amp;section=header&amp;text=MEHDI%20ROSTAMI&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlignY=42&amp;desc=DATA%20ENGINEER%20%7C%20BUILDING%20SYSTEMS%20THAT%20SCALE&amp;descAlignY=62&amp;descSize=16&amp;animation=fadeIn&amp;fontAlign=50&amp;descAlign=50" />
+<br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=18&amp;duration=2600&amp;pause=700&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;height=50&amp;lines=%3E+Designing+Reliable+Data+Pipelines;%3E+Engineering+Scalable+Data+Systems;%3E+Turning+Raw+Data+Into+Real+Insights;%3E+Automate.+Engineer.+Optimize" alt="Typing Animation" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/mehdi-rostami-8b7a49266"><img src="./assets/contact_linkedin.svg" width="214" alt="Connect on LinkedIn" /></a>&nbsp;
+  <a href="https://t.me/mhdirst"><img src="./assets/contact_telegram.svg" width="214" alt="Message on Telegram" /></a>&nbsp;
+  <a href="mailto:mehdirost4mi@gmail.com"><img src="./assets/contact_email.svg" width="214" alt="Send an email" /></a>
+</div>
 
+<br/>
+
+### <samp>01 / THE PERSON BEHIND THE PIPELINES</samp>
+
+**I build the infrastructure behind useful data.**
+
+I'm **Mehdi Rostami**, a **Data Engineer** interested in building dependable pipelines, clean data models, and automation that turns fragmented information into something teams can actually use. I enjoy working at the intersection of **software engineering, data, and infrastructure** — where reliability matters as much as the result.
+
+<br/>
+
+### <samp>02 / TOOLCHAIN</samp>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>01 — DATA &amp; ANALYTICS</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>02 — SOFTWARE &amp; SYSTEMS</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&amp;logo=qt&amp;logoColor=white" alt="Qt" />
+        <img src="./assets/assembly_badge.svg" height="28" alt="Assembly" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>03 — INFRASTRUCTURE</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Red_Hat_Linux-EE0000?style=for-the-badge&amp;logo=redhat&amp;logoColor=white" alt="Red Hat Linux" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>04 — WEB &amp; AUTOMATION</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Flask-303845?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="BeautifulSoup" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### <samp>03 / CURRENTLY LEVELING UP</samp>
+
+Exploring more of **ETL / ELT architecture**, **Apache Airflow**, and **PySpark** — with a focus on scalable, production-minded data workflows.
+
+<div align="center">
   <br/>
-
-  <a href="https://www.linkedin.com/in/mehdi-rostami-8b7a49266"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0B1220" /></a>
-  <a href="https://t.me/mhdirst"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;labelColor=0B1220" /></a>
-  <a href="mailto:mehdirost4mi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0B1220" /></a>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/◆_FOCUS-DATA_ENGINEERING-38BDF8?style=for-the-badge&amp;labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/◆_INTEREST-AUTOMATION-2DD4BF?style=for-the-badge&amp;labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/◆_MINDSET-KEEP_BUILDING-A78BFA?style=for-the-badge&amp;labelColor=0B1220" />
-
+  <img src="./assets/learning.gif" width="100%" alt="Three animated cards: ETL and ELT pipeline engineering, Apache Airflow workflow orchestration, and PySpark distributed processing." />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    SYSTEM PROFILE                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+### <samp>04 / ENGINEERING PRINCIPLES</samp>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/01-SYSTEM_PROFILE-0EA5E9?style=for-the-badge&amp;labelColor=0B1220" />
-</div>
-
-```bash
-╭─ mehdi@data-engineering  ~  ─────────────────────────────╮
-│                                                          │
-│   $ whoami                                               │
-│                                                          │
-│     ▸ Name        Mehdi Rostami                          │
-│     ▸ Role        Data Engineer                          │
-│     ▸ Focus       Data Pipelines & Automation            │
-│     ▸ Interests   Data Systems · Analytics · Infra       │
-│     ▸ Philosophy  Automate what repeats.                 │
-│                   Engineer what matters.                 │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-
-╭─ about.txt ──────────────────────────────────────────────╮
-│                                                          │
-│   I enjoy building reliable data systems that            │
-│   transform messy, scattered information into            │
-│   clean, structured, and meaningful datasets.            │
-│                                                          │
-│   My interests revolve around Data Engineering,          │
-│   pipeline architecture, automation, and creating        │
-│   efficient workflows that make data genuinely useful.   │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-
-  [ ● ACTIVE ]  Always learning. Always building.
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/02-TECH_ARSENAL-2DD4BF?style=for-the-badge&amp;labelColor=0B1220" />
-
+  <h3>Design for reliability. Automate with purpose. Make data trustworthy.</h3>
   <br/>
-  <sub><i>The technologies I work with</i></sub>
-
-  <br/><br/>
-
-  <b>◈ Data & Analytics</b>
-
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,mongodb,sqlite" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" />
-
-  <br/><br/>
-
-  <b>◈ Programming & Development</b>
-
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,qt" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=flat-square&amp;logo=assemblyscript&amp;logoColor=white" />
-
-  <br/><br/>
-
-  <b>◈ Engineering & Infrastructure</b>
-
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,redhat,bash,docker,git" />
-
-  <br/><br/>
-
-  <b>◈ Web & Scraping</b>
-
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flask" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&amp;logo=python&amp;logoColor=white" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- CURRENT FOCUS -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/03-CURRENTLY_LEVELING_UP-A78BFA?style=for-the-badge&amp;labelColor=0B1220" />
-  <br/>
-  <img src="https://img.shields.io/badge/▶_CURRENT_STATUS-LEARNING_%26_BUILDING-2DD4BF?style=for-the-badge&amp;labelColor=0B1220" />
-
-  <br/><br/>
-
-  <b>🔄 ETL · ELT</b><br/>
-  <b>Pipeline Engineering</b><br/>
-  <sub>Data modeling, reliable workflows, and building robust data pipelines.</sub>
-
-  <br/><br/>
-
-  <b>🌪️ Apache Airflow</b><br/>
-  <b>Workflow Orchestration</b><br/>
-  <sub>Scheduling, managing, and monitoring automated workflows.</sub>
-
-  <br/><br/>
-
-  <b>⚡ PySpark</b><br/>
-  <b>Distributed Processing</b><br/>
-  <sub>Exploring scalable data processing and large-scale transformations.</sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- PHILOSOPHY -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <b>✦ MY ENGINEERING PHILOSOPHY</b>
-
-  <h3>❝ Reliable pipelines. Clean datasets. Smarter decisions. ❞</h3>
-
-  <img src="https://img.shields.io/badge/BUILD-0EA5E9?style=flat-square&amp;labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/AUTOMATE-2DD4BF?style=flat-square&amp;labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/OPTIMIZE-A78BFA?style=flat-square&amp;labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/REPEAT-F472B6?style=flat-square&amp;labelColor=0B1220" />
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0F172A,50:1E3A8A,100:0EA5E9&amp;height=140&amp;section=footer" />
-
+  <img src="./assets/signal.gif" width="100%" alt="Animated signal: Engineer. Automate. Optimize. Always in build mode." />
 </div>
