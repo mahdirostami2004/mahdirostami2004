@@ -135,48 +135,10 @@ mehdi@data-engineering:~$ echo $STATUS
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                 DATA ENGINEERING FLOW                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <code>03.</code> 🔷 HOW I THINK ABOUT DATA
-
-<div align="center">
-
-*From raw information to reliable, actionable insights.*
-
-</div>
-
-```mermaid
-flowchart LR
-    A["📥 DATA SOURCES"]
-    B["⚙️ INGESTION"]
-    C["🔄 ETL / ELT"]
-    D["🗄️ DATA STORAGE"]
-    E["📊 ANALYTICS"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-
-    classDef source fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC;
-    classDef process fill:#0F172A,stroke:#A78BFA,stroke-width:2px,color:#F8FAFC;
-    classDef storage fill:#0F172A,stroke:#2DD4BF,stroke-width:2px,color:#F8FAFC;
-    classDef output fill:#0F172A,stroke:#60A5FA,stroke-width:2px,color:#F8FAFC;
-
-    class A,B source;
-    class C process;
-    class D storage;
-    class E output;
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
 <!--                    CURRENT FOCUS                      -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <code>04.</code> 🚀 CURRENTLY LEVELING UP
+## <code>03.</code> 🚀 CURRENTLY LEVELING UP
 
 <div align="center">
 
